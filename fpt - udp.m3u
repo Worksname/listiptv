@@ -3,12 +3,6 @@
 
 
 #- - - - - - - - - - - - - - - - - - - - - - - - - - - - -NHÓM KÊNH VTV- - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg",VTV1 HD
-http://192.168.2.1:4001/rtp/239.12.251.207:5000
-
-
-
-
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 
 http://192.168.2.1:4001/udp/225.1.2.249:30120
 
@@ -24,10 +18,10 @@ http://192.168.2.1:4001/udp/225.1.2.20:30120
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 
 http://192.168.2.1:4001/udp/225.1.1.131:30120
 
-#EXTINF:0 tvg-id="0000" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ 
+#EXTINF:0 group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ 
 http://192.168.2.1:4001/udp/225.1.2.236:30120
 
-#EXTINF:0 tvg-id="0000" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên 
+ group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên 
 http://192.168.2.1:4001/udp/225.1.1.108:30120
 
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ 
