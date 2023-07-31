@@ -751,22 +751,22 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 #EXTINF:-1 tvg-id="davincihd" group-title="QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/202.png", Da Vinci HD
 https://code.vthanhtivi.pw/getlink/mytv/294/hd.m3u8
 
-#EXTINF:-1 tvg-id="bbcearth" group-title="BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" group-title="QUỐC TÊ" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth
 http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png", BBC Lifestyle
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="QUỐC TÊ" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png", BBC Lifestyle
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvYqNlaJqfm8KZmqeWlqufkZxkYl5na6M=&time=1690835808&mytv_msky&id=519
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cbeebies" group-title="BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", BBC Cbeebies
+#EXTINF:-1 tvg-id="cbeebies" group-title="QUỐC TÊ" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", BBC Cbeebies
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvYqNlaJqfm8KZmqeWlqufkZxkYl5na6M=&time=1690835808&mytv_msky&id=525
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="QUỐC TÊ" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvYqNlaJqfm8KZmqeWlqufkZxkYl5na6M=&time=1690835808&mytv_msky&id=521
