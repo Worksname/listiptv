@@ -4,83 +4,83 @@
 #- - - - - - - - - - - - - - - - - - - - - - - - - - - - -NHÓM KÊNH VTV- - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 
-udp://@225.1.2.249:30120
+http://192.168.2.1:4001/udp/225.1.2.249:30120
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 
-udp://@225.1.2.13:30120
+http://192.168.2.1:4001/udp/225.1.2.13:30120
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 
-udp://@225.1.2.247:30120
+http://192.168.2.1:4001/udp/225.1.2.247:30120
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 
-udp://@225.1.2.20:30120
+http://192.168.2.1:4001/udp/225.1.2.20:30120
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 
-udp://@225.1.1.131:30120
+http://192.168.2.1:4001/udp/225.1.1.131:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ 
-udp://@225.1.2.236:30120
+http://192.168.2.1:4001/udp/225.1.2.236:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên 
-udp://@225.1.1.108:30120
+http://192.168.2.1:4001/udp/225.1.1.108:30120
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ 
-udp://@225.1.2.245:30120
+http://192.168.2.1:4001/udp/225.1.2.245:30120
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 
-udp://@225.1.2.96:30120
+http://192.168.2.1:4001/udp/225.1.2.96:30120
 
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 
-udp://@225.1.2.166:30120
+http://192.168.2.1:4001/udp/225.1.2.166:30120
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 
-udp://@225.1.1.128:30120
+http://192.168.2.1:4001/udp/225.1.1.128:30120
 
 
 
 
 #- - - - - - - - - - - - - - - - - - - - - - - - - - - - -NHÓM KÊNH HTV/HTVC- - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
 #EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
-udp://@225.1.1.180:30120
+http://192.168.2.1:4001/udp/225.1.1.180:30120
 
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/uSbnTdO.png",HTV2 
-udp://@225.1.1.193:30120
+http://192.168.2.1:4001/udp/225.1.1.193:30120
 
 #EXTINF:-1 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-udp://@225.1.1.178:30120
+http://192.168.2.1:4001/udp/225.1.1.178:30120
 
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
-udp://@225.1.1.177:30120
+http://192.168.2.1:4001/udp/225.1.1.177:30120
 
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD 
-udp://@225.1.1.192:30120
+http://192.168.2.1:4001/udp/225.1.1.192:30120
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD 
-udp://@225.1.1.190:30120
+http://192.168.2.1:4001/udp/225.1.1.190:30120
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO 
-udp://@225.1.1.165:30120
+http://192.168.2.1:4001/udp/225.1.1.165:30120
 
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/de7a3sf.png",HTVC Ca Nhạc 
-udp://@225.1.1.185:30120
+http://192.168.2.1:4001/udp/225.1.1.185:30120
 
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống 
-udp://@225.1.1.166:30120
+http://192.168.2.1:4001/udp/225.1.1.166:30120
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình 
-udp://@225.1.1.170:30120
+http://192.168.2.1:4001/udp/225.1.1.170:30120
 
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim 
-udp://@225.1.1.184:30120
+http://192.168.2.1:4001/udp/225.1.1.184:30120
 
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ 
-udp://@225.1.1.171:30120
+http://192.168.2.1:4001/udp/225.1.1.171:30120
 
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt 
-udp://@225.1.1.186:30120
+http://192.168.2.1:4001/udp/225.1.1.186:30120
 
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ 
-udp://@225.1.1.181:30120
+http://192.168.2.1:4001/udp/225.1.1.181:30120
 
 
 
@@ -228,43 +228,43 @@ https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVOLLEYBALL/
 
 #- - - - - - - - - - - - - - - - - - - - - - - - - - - - -NHÓM KÊNH VTC- - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/VlNtPHF.png",VTC1 HD
-udp://@225.1.2.254:30120
+http://192.168.2.1:4001/udp/225.1.2.254:30120
 
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.imgur.com/sD1QYBj.png",VTC2
-udp://@225.1.2.202:30120
+http://192.168.2.1:4001/udp/225.1.2.202:30120
 
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://i.imgur.com/pSVc30b.png",VTC3 HD
-udp://@225.1.2.251:30120
+http://192.168.2.1:4001/udp/225.1.2.251:30120
 
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/WecjEcn.png",VTC4 HD
-udp://@225.1.2.200:30120
+http://192.168.2.1:4001/udp/225.1.2.200:30120
 
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/qw5Q778.png",VTC5
-udp://@225.1.2.199:30120
+http://192.168.2.1:4001/udp/225.1.2.199:30120
 
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/nxG52Yf.png",VTC6
-udp://@225.1.2.198:30120
+http://192.168.2.1:4001/udp/225.1.2.198:30120
 
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/whMdKp9.png",VTC7
-udp://@225.1.2.197:30120
+http://192.168.2.1:4001/udp/225.1.2.197:30120
 
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://i.imgur.com/nh4oZUn.png",VTC8
-udp://@225.1.2.196:30120
+http://192.168.2.1:4001/udp/225.1.2.196:30120
 
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/3OAuCM9.png",VTC9 HD
-udp://@225.1.2.195:30120
+http://192.168.2.1:4001/udp/225.1.2.195:30120
 
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/CJ1PwxH.png",VTC10 HD
-udp://@225.1.2.194:30120
+http://192.168.2.1:4001/udp/225.1.2.194:30120
 
 #EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://i.imgur.com/EOcY7g1.png",VTC13 HD
-udp://@225.1.2.250:30120
+http://192.168.2.1:4001/udp/225.1.2.250:30120
 
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://i.imgur.com/5ICpekJ.png",VTC14 HD
-udp://@225.1.2.88:30120
+http://192.168.2.1:4001/udp/225.1.2.88:30120
 
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/WRa6Qki.png",VTC16 HD
-udp://@225.1.2.190:30120
+http://192.168.2.1:4001/udp/225.1.2.190:30120
 
 
 
@@ -363,19 +363,19 @@ https://synguyen.net/vthanhtivi_getlink/e1.endpoint.cdn.sctvonline.vn/channel/sc
 
 #- - - - - - - - - - - - - - - - - - - - - - - - - - - - -NHÓM KÊNH THIẾT YẾU- - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
 #EXTINF:-1 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
-udp://@225.1.2.169:30120
+http://192.168.2.1:4001/udp/225.1.2.169:30120
 
 #EXTINF:-1 tvg-id="nhandan" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV
-udp://@225.1.1.91:30120
+http://192.168.2.1:4001/udp/225.1.1.91:30120
 
 #EXTINF:-1 tvg-id="quochoi" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD
-udp://@225.1.2.148:30120
+http://192.168.2.1:4001/udp/225.1.2.148:30120
 
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
-udp://@225.1.2.217:30120
+http://192.168.2.1:4001/udp/225.1.2.217:30120
 
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS
-udp://@225.1.1.167:30120
+http://192.168.2.1:4001/udp/225.1.1.167:30120
 
 
 
@@ -383,321 +383,321 @@ udp://@225.1.1.167:30120
 #- - - - - - - - - - - - - - - - - - - - - - - - - - - - -NHÓM KÊNH ĐỊA PHƯƠNG- - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai
-udp://@225.1.1.119:30120
+http://192.168.2.1:4001/udp/225.1.1.119:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái
-udp://@225.1.1.39:30120
+http://192.168.2.1:4001/udp/225.1.1.39:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên
-udp://@225.1.1.74:30120
+http://192.168.2.1:4001/udp/225.1.1.74:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Hòa Bình
-udp://@225.1.2.168:30120
+http://192.168.2.1:4001/udp/225.1.2.168:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH Lai Châu
-udp://@225.1.2.36:30120
+http://192.168.2.1:4001/udp/225.1.2.36:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang
-udp://@225.1.1.62:30120
+http://192.168.2.1:4001/udp/225.1.1.62:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV HD _ TH Tuyên Quang
-udp://@225.1.2.188:30120
+http://192.168.2.1:4001/udp/225.1.2.188:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên
-udp://@225.1.2.179:30120
+http://192.168.2.1:4001/udp/225.1.2.179:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ
-udp://@225.1.2.165:30120
+http://192.168.2.1:4001/udp/225.1.2.165:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang
-udp://@225.1.1.164:30120
+http://192.168.2.1:4001/udp/225.1.1.164:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng
-udp://@225.1.1.102:30120
+http://192.168.2.1:4001/udp/225.1.1.102:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn
-udp://@225.1.1.126:30120
+http://192.168.2.1:4001/udp/225.1.1.126:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Sơn
-udp://@225.1.1.160:30120
+http://192.168.2.1:4001/udp/225.1.1.160:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh
-udp://@225.1.2.181:30120
+http://192.168.2.1:4001/udp/225.1.2.181:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh
-udp://@225.1.2.180:30120
+http://192.168.2.1:4001/udp/225.1.2.180:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh
-udp://@225.1.1.40:30120
+http://192.168.2.1:4001/udp/225.1.1.40:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội
-udp://@225.1.2.186:30120
+http://192.168.2.1:4001/udp/225.1.2.186:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội
-udp://@225.1.1.125:30120
+http://192.168.2.1:4001/udp/225.1.1.125:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương
-udp://@225.1.1.158:30120
+http://192.168.2.1:4001/udp/225.1.1.158:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng
-udp://@225.1.1.44:30120
+http://192.168.2.1:4001/udp/225.1.1.44:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. Hải Phòng
-udp://@225.1.1.113:30120
+http://192.168.2.1:4001/udp/225.1.1.113:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình
-udp://@225.1.2.185:30120
+http://192.168.2.1:4001/udp/225.1.2.185:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD _ TH Thái Bình
-udp://@225.1.1.99:30120
+http://192.168.2.1:4001/udp/225.1.1.99:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vĩnh Phúc
-udp://@225.1.2.99:30120
+http://192.168.2.1:4001/udp/225.1.2.99:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An
-udp://@225.1.2.183:30120
+http://192.168.2.1:4001/udp/225.1.2.183:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tĩnh
-udp://@225.1.1.75:30120
+http://192.168.2.1:4001/udp/225.1.1.75:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV HD _ TH Quảng Trị
-udp://@225.1.1.117:30120
+http://192.168.2.1:4001/udp/225.1.1.117:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. Đà Nẵng
-udp://@225.1.1.147:30120
+http://192.168.2.1:4001/udp/225.1.1.147:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 HD _ TH TP. Đà Nẵng
-udp://@225.1.1.146:30120
+http://192.168.2.1:4001/udp/225.1.1.146:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD _ TH Quảng Nam
-udp://@225.1.2.50:30120
+http://192.168.2.1:4001/udp/225.1.2.50:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi
-udp://@225.1.2.174:30120
+http://192.168.2.1:4001/udp/225.1.2.174:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định
-udp://@225.1.1.145:30120
+http://192.168.2.1:4001/udp/225.1.1.145:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD _ TH Phú Yên
-udp://@225.1.2.58:30120
+http://192.168.2.1:4001/udp/225.1.2.58:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Khánh Hòa
-udp://@225.1.1.133:30120
+http://192.168.2.1:4001/udp/225.1.1.133:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV HD _ TH Ninh Thuận
-udp://@225.1.2.178:30120
+http://192.168.2.1:4001/udp/225.1.2.178:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV HD _ TH Bình Thuận
-udp://@225.1.1.124:30120
+http://192.168.2.1:4001/udp/225.1.1.124:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum
-udp://@225.1.1.36:30120
+http://192.168.2.1:4001/udp/225.1.1.36:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL HD _ TH Gia Lai
-udp://@225.1.2.176:30120
+http://192.168.2.1:4001/udp/225.1.2.176:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk
-udp://@225.1.1.64:30120
+http://192.168.2.1:4001/udp/225.1.1.64:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD _ TH Lâm Đồng
-udp://@225.1.2.177:30120
+http://192.168.2.1:4001/udp/225.1.2.177:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 HD _ TH Bình Phước
-udp://@225.1.2.23:30120
+http://192.168.2.1:4001/udp/225.1.2.23:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 HD _ TH Bình Phước
-udp://@225.1.2.38:30120
+http://192.168.2.1:4001/udp/225.1.2.38:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương
-udp://@225.1.1.150:30120
+http://192.168.2.1:4001/udp/225.1.1.150:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH Bình Dương
-udp://@225.1.1.149:30120
+http://192.168.2.1:4001/udp/225.1.1.149:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/K6Qs6BO.png",BTV3 HD _ TH Bình Dương
-udp://@225.1.2.22:30120
+http://192.168.2.1:4001/udp/225.1.2.22:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/HwO408q.png",BTV4 HD _ TH Bình Dương
-udp://@225.1.1.29:30120
+http://192.168.2.1:4001/udp/225.1.1.29:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel
-udp://@225.1.2.189:30120
+http://192.168.2.1:4001/udp/225.1.2.189:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai
-udp://@225.1.1.152:30120
+http://192.168.2.1:4001/udp/225.1.1.152:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD _ TH Đồng Nai
-udp://@225.1.1.151:30120
+http://192.168.2.1:4001/udp/225.1.1.151:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh
-udp://@225.1.1.130:30120
+http://192.168.2.1:4001/udp/225.1.1.130:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu
-udp://@225.1.2.175:30120
+http://192.168.2.1:4001/udp/225.1.2.175:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 HD _ TH Đồng Tháp
-udp://@225.1.1.163:30120
+http://192.168.2.1:4001/udp/225.1.1.163:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây
-udp://@225.1.1.210:30120
+http://192.168.2.1:4001/udp/225.1.1.210:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang
-udp://@225.1.2.170:30120
+http://192.168.2.1:4001/udp/225.1.2.170:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang
-udp://@225.1.2.173:30120
+http://192.168.2.1:4001/udp/225.1.2.173:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre
-udp://@225.1.1.156:30120
+http://192.168.2.1:4001/udp/225.1.1.156:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long
-udp://@225.1.1.155:30120
+http://192.168.2.1:4001/udp/225.1.1.155:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long
-udp://@225.1.1.154:30120
+http://192.168.2.1:4001/udp/225.1.1.154:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long
-udp://@225.1.1.235:30120
+http://192.168.2.1:4001/udp/225.1.1.235:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long
-udp://@225.1.2.25:30120
+http://192.168.2.1:4001/udp/225.1.2.25:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh
-udp://@225.1.2.172:30120
+http://192.168.2.1:4001/udp/225.1.2.172:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang
-udp://@225.1.1.157:30120
+http://192.168.2.1:4001/udp/225.1.1.157:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang
-udp://@225.1.2.182:30120
+http://192.168.2.1:4001/udp/225.1.2.182:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD _ TH Bạc Liêu
-udp://@225.1.1.61:30120
+http://192.168.2.1:4001/udp/225.1.1.61:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH Cà Mau
-udp://@225.1.1.104:30120
+http://192.168.2.1:4001/udp/225.1.1.104:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ
-udp://@225.1.1.132:30120
+http://192.168.2.1:4001/udp/225.1.1.132:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
-udp://@225.1.1.98:30120
+http://192.168.2.1:4001/udp/225.1.1.98:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH Hà Nam
-udp://@225.1.1.63:30120
+http://192.168.2.1:4001/udp/225.1.1.63:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Hưng Yên
-udp://@225.1.1.118:30120
+http://192.168.2.1:4001/udp/225.1.1.118:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Nam Định
-udp://@225.1.1.120:30120
+http://192.168.2.1:4001/udp/225.1.1.120:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
-udp://@225.1.2.184:30120
+http://192.168.2.1:4001/udp/225.1.2.184:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Quảng Bình
-udp://@225.1.2.164:30120
+http://192.168.2.1:4001/udp/225.1.2.164:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT _ TH Thừa Thiên Huế
-udp://@225.1.1.161:30120
+http://192.168.2.1:4001/udp/225.1.1.161:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/55pfYfq.png",BTV6 _ TH Bình Dương
-udp://@225.1.1.223:30120
+http://192.168.2.1:4001/udp/225.1.1.223:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
-udp://@225.1.1.162:30120
+http://192.168.2.1:4001/udp/225.1.1.162:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH Sóc Trăng
-udp://@225.1.1.159:30120
+http://192.168.2.1:4001/udp/225.1.1.159:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV HD _ TH Bắc Giang
-udp://@225.1.4.173:30120
+http://192.168.2.1:4001/udp/225.1.4.173:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Địa phương" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn
-udp://@225.1.4.174:30120
+http://192.168.2.1:4001/udp/225.1.4.174:30120
 
 
 #- - - - - - - - - - - - - - - - - - - - - - - - - - - - -NHÓM KÊNH QUỐC TÊ- - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",Animal Planet 
-udp://@225.1.1.231:30120
+http://192.168.2.1:4001/udp/225.1.1.231:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",Arirang
-udp://@225.1.1.201:30120
+http://192.168.2.1:4001/udp/225.1.1.201:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",ABC AUSTRALIA
-udp://@225.1.2.21:30120
+http://192.168.2.1:4001/udp/225.1.2.21:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",Animax 
-udp://@225.1.1.135:30120
+http://192.168.2.1:4001/udp/225.1.1.135:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",Asian Food Network 
-udp://@225.1.1.198:30120
+http://192.168.2.1:4001/udp/225.1.1.198:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",AXN 
-udp://@225.1.2.225:30120
+http://192.168.2.1:4001/udp/225.1.2.225:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",Baby TV 
-udp://@225.1.2.146:30120
+http://192.168.2.1:4001/udp/225.1.2.146:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",Baby First
-udp://@225.1.1.137:30120
+http://192.168.2.1:4001/udp/225.1.1.137:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",BBC WORLD NEWS
-udp://@225.1.2.74:30120
+http://192.168.2.1:4001/udp/225.1.2.74:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",BBC CbeeBies 
-udp://@225.1.1.134:30120
+http://192.168.2.1:4001/udp/225.1.1.134:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",BBC Lifestyle
-udp://@225.1.2.52:30120
+http://192.168.2.1:4001/udp/225.1.2.52:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",BBC Earth 
-udp://@225.1.2.24:30120
+http://192.168.2.1:4001/udp/225.1.2.24:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",BOOMERANG 
-udp://@225.1.1.138:30120
+http://192.168.2.1:4001/udp/225.1.1.138:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",BLUE ANT ENTERTAINMENT 
-udp://@225.1.1.203:30120
+http://192.168.2.1:4001/udp/225.1.1.203:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",BLUE ANT EXTREME 
-udp://@225.1.1.204:30120
+http://192.168.2.1:4001/udp/225.1.1.204:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="Quốc Tế",CARTOON NETWORK 
-udp://@225.1.2.231:30120
+http://192.168.2.1:4001/udp/225.1.2.231:30120
 
 
 
 #- - - - - - - - - - - - - - - - - - - - - - - - - - - - -NHÓM KÊNH PHIM- - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
 #EXTINF:-1 tvg-id="0000" group-title="KÊNH PHIM",HBO 
-https://192.168.2.1:4001/udp/225.1.2.233:30120
+http://192.168.2.1:4001/udp/225.1.2.233:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="KÊNH PHIM",HBO 12MbpS
-https://192.168.2.1:4001/udp/225.1.4.90:30120
+http://192.168.2.1:4001/udp/225.1.4.90:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="KÊNH PHIM",Cinema World HD
-https://192.168.2.1:4001/udp/225.1.4.15:30120
+http://192.168.2.1:4001/udp/225.1.4.15:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="KÊNH PHIM",CINEMAX HD
-https://192.168.2.1:4001/udp/225.1.2.143:30120
+http://192.168.2.1:4001/udp/225.1.2.143:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="KÊNH PHIM" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim
-https://192.168.2.1:4001/udp/225.1.4.63:30120
+http://192.168.2.1:4001/udp/225.1.4.63:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="KÊNH PHIM" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim
-https://192.168.2.1:4001/udp/225.1.1.184:30120
+http://192.168.2.1:4001/udp/225.1.1.184:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="KÊNH PHIM",AXN HD
-https://192.168.2.1:4001/udp/225.1.2.135:30120
+http://192.168.2.1:4001/udp/225.1.2.135:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="KÊNH PHIM",Kix HD
-https://192.168.2.1:4001/udp/225.1.2.127:30120
+http://192.168.2.1:4001/udp/225.1.2.127:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="KÊNH PHIM",Animax HD
-https://192.168.2.1:4001/udp/225.1.2.45:30120
+http://192.168.2.1:4001/udp/225.1.2.45:30120
 
 #EXTINF:-1 tvg-id="0000" group-title="KÊNH PHIM",KIX HD
-https://192.168.2.1:4001/udp/225.1.4.40:30120
+http://192.168.2.1:4001/udp/225.1.4.40:30120
 
 
 #- - - - - - - - - - - - - - - - - - - - - - - - - - - - -NHÓM KÊNH KẸO +- - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
