@@ -1,6 +1,5 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="	RÁP VIỆT MÙA 1	" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/18/13bekbz6_1920x1080-rapviet-kv_296_168.webp",	RÁP VIỆT MÙA 1	I	TẬP 1	"#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey"	https://playlist-free.vieon.vn/playlist/content/vieon/38c7a081-3d60-44aa-bbb9-2003eaf89673/1690993129000/8db4cc694d655f19ed5301fdd417ed54/h265/playlist.mpd?is_global=1&model=&pkgs=&platform=web&play_trial=0&uid=anonymous_3c6db169ef2e2c01b86f9f68d16bb590-878713e7f14b016b0a1c1d730f4992c7-1690906506&user_type=0&sn=sgn-vnpt-002&rid=8																				
+#EXTINF:-1 tvg-id="bbcearth" group-title="RAP VIỆT FULL" tvg-logo="http://gg.gg/15xo4x" RAP VIET
+https://raw.githubusercontent.com/Worksname/listiptv/main/RAPVIET.M3U
