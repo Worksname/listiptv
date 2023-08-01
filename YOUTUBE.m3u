@@ -1,3 +1,4 @@
 #EXTM3U
 
-https://raw.githubusercontent.com/Worksname/listiptv/main/RAPVIET.M3U
+
+#EXTINF:-1 https://raw.githubusercontent.com/Worksname/listiptv/main/RAPVIET.M3U
