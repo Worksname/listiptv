@@ -1,4 +1,5 @@
 #EXTM3U
 
 
-#EXTINF:-1 https://raw.githubusercontent.com/Worksname/listiptv/main/RAPVIET.M3U
+#EXTINF:-1 group-title="RAP VIỆT" tvg-logo="http://gg.gg/15xo4x",$ RAP VIỆT MÙA 1 TẬP 1 
+https://raw.githubusercontent.com/Worksname/listiptv/main/RAPVIET.M3U
