@@ -1,6 +1,31 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="PHIM CẬP NHẬT"tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Ryu_to_Sobakasu_no_Hime_poster.jpg/220px-Ryu_to_Sobakasu_no_Hime_poster.jpg",Belle: Rồng Và Công Chúa Tàn Nhang
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/a8288229-c05d-4695-97b4-d21af0fb39d5/1691079267000/061a180347457792f96c22bfbde40a7a/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-002&rid=8
+
+#EXTINF:-1 group-title="PHIM CẬP NHẬT"tvg-logo="https://baodongnai.com.vn/dataimages/202301/original/images2507754_42g.jpg",Mèo Béo Siêu Đẳng
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/5cf506b7-52ea-4725-bb07-e850d0c4d542/1691079341000/3f2d926a4747efec333caae1a7e43013/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="PHIM CẬP NHẬT"tvg-logo="https://rapchieuphim.com/photos/5298/ainbo-chinh.jpg",Ainbo: Nữ Chiến Binh Amazon
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/cc2b78ac-c489-4b13-9ace-da0cad52754a/1691079386000/4039d171dbcd03886e602952c1904655/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+
+
+
+
 #EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
