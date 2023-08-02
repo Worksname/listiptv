@@ -1,5 +1,36 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="VTV",$ K LIFE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://sgn-vnpt-002-livecdn-vthn-vnd.vieon.vn/7dcb1ffe985b4cdb4b92e9d0de43c1cf/1691058507359/kplus/manifest/kplus_life/master.mpd?codec=hvc&token=MDc2YmZmMjgtNDQwMy1mMjU4LTc1M2MtNGE5NTg4MmU2YjYxfHdlYnw3ZTMwZjk3OTEzZmQ4NjFlOWUzYjM0Zjc5NmNhNTY4M3w0MDM2NDI3YS02NTMyLTRkMDktYmUxZi1hYWY1ODczYzdlNDd8bGl2ZXR2fDc2QjMxfGY4MDNjYjVjYTdkODhjZGQzYjYwZWJhNzI4ZWM0NDEx
+
+
+#EXTINF:-1 group-title="VTV",$ K CINE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/4068b9b3cc2c174611ad1b821d263de4/1691058531024/kplus/manifest/kplus_cine/master.mpd?codec=hvc&token=MDc2YmZmMjgtNDQwMy1mMjU4LTc1M2MtNGE5NTg4MmU2YjYxfHdlYnw3ZTMwZjk3OTEzZmQ4NjFlOWUzYjM0Zjc5NmNhNTY4M3w1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDc2QjQ2fGM5ZjFhYTVlYTg4MWNmNTBiYTM2Njg1ZTc4ZTg5MGU2
+
+
+#EXTINF:-1 group-title="VTV",$ K KISD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://hni-vnpt-001-livecdn-vthn-vnd.vieon.vn/925ed941048c9cd64306e824f5f72e34/1691058408983/kplus/manifest/kplus_kid/master.mpd?codec=hvc&token=MDc2YmZmMjgtNDQwMy1mMjU4LTc1M2MtNGE5NTg4MmU2YjYxfHdlYnw3ZTMwZjk3OTEzZmQ4NjFlOWUzYjM0Zjc5NmNhNTY4M3wyNjBmM2FhOC01ZTQ4LTQwMjUtYmVhNC1mZmVkZDcxMjk2MjR8bGl2ZXR2fDc2QUZGfGI0MzA1N2EyMjcxODgwZjkzZjM1YTgxOTZjMmJmMTU3
+
+
+#EXTINF:-1 group-title="VTV",$ VTVCAP
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://hni-vnpt-001-livecdn-vthn-vnd.vieon.vn/8754dda73a168ed0d577a862dc50caa9/1691058662071/qnet/live_dzones/axn.smil/segment_ctvideo_cfm4s_ridp0va0br3500000_cs301847755950_qY29kZWM9aHZj_mpd.m4s
+
 
 
 #EXTINF:-1 group-title="VTV",$ VTV 1
