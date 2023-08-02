@@ -1,7 +1,183 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/15d83bdd-948b-4a30-9cb6-6da1b1405f31/1691079757000/5b72240473adc7c8f704b371d49b3662/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-002&rid=8
 
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/9b1ce3af-59bb-412d-9a6c-4fb5b0277576/1691079795000/3ec939f1d1de1a6ec5a65d46ca78fc73/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/536a39fc-3860-4286-a226-bd9dd983debf/1691079799000/ad03615e32da15149544c4e194488970/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-002&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/6bd02f09-020e-4a73-8133-fe064e32f513/1691079801000/908d135383cde124a49a68d4633a7958/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-002&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/baded1e6-da2b-4f7c-a45f-e8541a8cdb4c/1691079803000/cb6e50eca3b2d3643711bcdb1c22d844/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/dd8dffad-87a6-446c-b4ed-9701ce22e510/1691079807000/2ddcfa87ce1b2a293baa9aa90001dff3/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/cde550e3-6980-476b-a07a-401da174a80a/1691079809000/001b4a2ad7425a495354acdfceb44b87/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/eca78e5f-1632-4972-9525-b7f568df485a/1691079810000/b3bbf3d1cd82b1d3b49dedf01226ce59/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/0e4ec0ce-a49e-4116-8d6b-452229432022/1691079815000/e66653eebf726d77fe5fddb5e3234313/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/9c1a1b0c-af81-499d-8f51-3ac84c06a8fd/1691079817000/6b16796256522fe4260e50394be9be7d/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-002&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 11
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/319d1399-c480-4dd1-bb2a-4233d7aadf1a/1691079821000/1147f4133e45c27f96b307615f73f789/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 12
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/773931a7-468d-4147-a800-2cb44231af99/1691079824000/350c41ca43df544d8035d636559d5eea/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-002&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 13
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/8ef53abd-3830-4711-8c93-c29506682dfc/1691080036000/ed425357abf015b624258d1de50aa0c4/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 14
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/0665ddb1-1d39-4690-943a-d8c1c3643f8f/1691080041000/1e3bfb5a31e24cf54bb71873504da4f3/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-002&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 15
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/89e74f88-63f6-432b-a329-2db9e6f07f8d/1691080045000/138a809302e3ba1bcedece4675d3b54e/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-002&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 16
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/811c5bfd-68e4-4c74-af93-fe72efba0bc0/1691080047000/e63b947125ef38e2f01255a02d800e5f/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 17
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/14aa1eee-6055-4516-8090-3b1f7daf58f7/1691080049000/2dfbfc81b14ec39c2f62f9cfa45d5c0f/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-002&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 18
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/40724cac-d75d-407a-aa8f-78e9e923d492/1691080051000/94835889e4a12ab2697847f73863c364/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 19
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/4518b014-724a-4336-befe-6ef60178a791/1691080053000/310c8c1a46aee5a70e8e1553894f2c67/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-002&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 20
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/618fb49a-768b-4179-97e3-d15aae8ecf44/1691080055000/9a18f314c599aa20e3dbc3a573178b20/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 21
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/5c808fdb-6a7f-45fb-95ce-86ca99adf4be/1691080058000/8990a9c770d0186ad39282623b08eda5/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 22
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/7efdda71-8db0-45d9-8fb7-e7340f30266e/1691080060000/c04ae0f7f384b9f0fbb24c290656007a/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 23
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/def5975b-8972-4eeb-be2d-0c5de46b71b4/1691080062000/6cf48139e70f6163f6387607e61e3090/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/b6b368ac-3dd7-41bd-9ddd-b94edd3224ec/1691080064000/92e29ada77263605bb62b37b6286ced5/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-001&rid=8
+
+#EXTINF:-1 group-title="Spy x Family"tvg-logo="http://gg.gg/15ya11",Spy x Family - TẬP 25
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+https://playlist-vip.vieon.vn/playlist/content/vieon/133ab138-0032-4da0-8500-66e8503404ff/1691080066000/7077266b37026cef75e3ebc3177488f3/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-002&rid=8
+
+
+#--------------------------------------------------------BBB----------------------------------------------------------#
 #EXTINF:-1 group-title="2 NGÀY 1 ĐÊM"tvg-logo="http://gg.gg/15y9j5",2 NGÀY 1 ĐÊM - TẬP 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
