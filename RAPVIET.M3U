@@ -6,14 +6,14 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=clearkey
-https://playlist-vip.vieon.vn/playlist/content/vieon/38c7a081-3d60-44aa-bbb9-2003eaf89673/1691086726000/f337e9452896153b953a495f75b2d3a3/h265/playlist.mpd?is_global=1&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=hni-vnpt-002&rid=8
+https://playlist-vip.vieon.vn/playlist/content/vieon/38c7a081-3d60-44aa-bbb9-2003eaf89673/1691087061000/ea75dd1b9d0461ce1a53464c29a879b8/h265/playlist.mpd?is_global=1&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=hni-vnpt-002&rid=8
 
 #EXTINF:-1 group-title="RAP VIỆT" tvg-logo="http://gg.gg/15xo4x",$ RAP VIỆT MÙA 1 TẬP 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=clearkey
-https://playlist-vip.vieon.vn/playlist/content/vieon/62ec9adb-c130-44fe-8810-b6fcc3c7757e/1691086726000/1a38f32c6611aff51ba6f4566e232367/h265/playlist.mpd?is_global=1&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=hni-vnpt-002&rid=8
+https://playlist-vip.vieon.vn/playlist/content/vieon/62ec9adb-c130-44fe-8810-b6fcc3c7757e/1691087088000/8b9a58cdd8a956b01d3a2fd882ab224b/h265/playlist.mpd?is_global=1&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=hni-vnpt-001&rid=8
 
 #EXTINF:-1 group-title="RAP VIỆT" tvg-logo="http://gg.gg/15xo4x",$ RAP VIỆT MÙA 1 TẬP 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
