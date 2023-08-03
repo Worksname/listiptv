@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 group-title="PHIM CẬP NHẬT"tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Ryu_to_Sobakasu_no_Hime_poster.jpg/220px-Ryu_to_Sobakasu_no_Hime_poster.jpg",Tinh Hà Trường Minh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
