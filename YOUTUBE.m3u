@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=clearkey
-https://r1---sn-i3b7knsd.c.2mdn.net/videoplayback/id/05bfb54f8a166a4e/itag/59/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/1722629597/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/54BCF19A08F6B79417890C48C168EDD8EDE0C2EA.303EE30D411C7B2E5E67A79002018D3960D94F52/key/cms1/cms_redirect/yes/mh/PB/mip/14.162.4.209/mm/42/mn/sn-i3b7knsd/ms/onc/mt/1691092485/mv/u/mvi/1/pl/21?cpn=Zqcg_umruflJNnTO&file=file.mp4
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221207/shiningjustforyou-2022-cn-001-edit/956e2657a502dc0229342d308150abe8-1080p.mp4/chunklist.m3u8
 
 #EXTINF:-1 group-title="PHIM CẬP NHẬT"tvg-logo="https://baodongnai.com.vn/dataimages/202301/original/images2507754_42g.jpg",Mèo Béo Siêu Đẳng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
