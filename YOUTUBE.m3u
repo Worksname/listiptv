@@ -1,12 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="PHIM CẬP NHẬT"tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Ryu_to_Sobakasu_no_Hime_poster.jpg/220px-Ryu_to_Sobakasu_no_Hime_poster.jpg",Belle: Rồng Và Công Chúa Tàn Nhang
+#EXTINF:-1 group-title="PHIM CẬP NHẬT"tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Ryu_to_Sobakasu_no_Hime_poster.jpg/220px-Ryu_to_Sobakasu_no_Hime_poster.jpg",Tinh Hà Trường Minh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=clearkey
-https://playlist-vip.vieon.vn/playlist/content/vieon/a8288229-c05d-4695-97b4-d21af0fb39d5/1691079267000/061a180347457792f96c22bfbde40a7a/h265/playlist.mpd?is_global=0&model=&pkgs=196,196,221,221&platform=web&play_trial=0&uid=076bff28-4403-f258-753c-4a95882e6b61&user_type=1&sn=sgn-fpt-002&rid=8
+https://r1---sn-i3b7knsd.c.2mdn.net/videoplayback/id/05bfb54f8a166a4e/itag/59/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/1722629597/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/54BCF19A08F6B79417890C48C168EDD8EDE0C2EA.303EE30D411C7B2E5E67A79002018D3960D94F52/key/cms1/cms_redirect/yes/mh/PB/mip/14.162.4.209/mm/42/mn/sn-i3b7knsd/ms/onc/mt/1691092485/mv/u/mvi/1/pl/21?cpn=Zqcg_umruflJNnTO&file=file.mp4
 
 #EXTINF:-1 group-title="PHIM CẬP NHẬT"tvg-logo="https://baodongnai.com.vn/dataimages/202301/original/images2507754_42g.jpg",Mèo Béo Siêu Đẳng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
