@@ -1,479 +1,481 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #-------------------VTV-------------------#
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 FHD-UDP
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.249:30120
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 FHD-UDP
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.13:30120
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 FHD-UDP
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.247:30120
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 FHD-UDP
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.20:30120
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 FHD-UDP
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.131:30120
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ FHD-UDP
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.245:30120
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 FHD-UDP
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.96:30120
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 FHD-UDP
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.166:30120
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 FHD-UDP
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.128:30120
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ FHD-UDP
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.236:30120
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên FHD-UDP
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.108:30120
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 FHD-UDP
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.1:30120
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 FHD-UDP
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.5:30120
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 FHD-UDP
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.2:30120
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 FHD-UDP
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.6:30120
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 FHD-UDP
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.4:30120
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ FHD-UDP
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.3:30120
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 FHD-UDP
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.15:30120
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 FHD-UDP
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.11:30120
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 FHD-UDP
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.9:30120
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ FHD-UDP
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.42:30120
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên FHD-UDP
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.30:30120
 
 
 
 #-------------------VTVcab-------------------#
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/180/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/175/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://api.wintv.me/vtvcab3/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/181/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/184/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://api.wintv.me/vtvcab6/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://api.wintv.me/vtvcab7/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/178/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/189/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/176/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/184/index.m3u8
-#EXTINF:-1 group-title="🛒| Mua sắm" group-logo="https://i.imgur.com/75di4n1.png" tvg-logo="https://i.imgur.com/ms11bjD.png",VTV Hyundai Homeshopping
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/ms11bjD.png",VTV Hyundai Homeshopping
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/27/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/185/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://api.wintv.me/vtvcab16/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/186/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://api.wintv.me/vtvcab18/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/177/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/187/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/3XEFbua.png",ON Kids
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/3XEFbua.png",ON Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/179/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/188/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/169/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/Sqo9Luk.png",BTV5 — ON Sports Action
+#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/VTVcab_logo_2023_%282%29.svg" tvg-logo="https://i.imgur.com/Sqo9Luk.png",BTV5 — ON Sports Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/2380/index.m3u8
 
 
 
 #-------------------VTC-------------------#
-#EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 FHD-UDP
+#EXTINF:0 tvg-id="vtc1hd" group-title="VTC" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/VTC_official_logo.svg" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.254:30120
-#EXTINF:0 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
+#EXTINF:0 tvg-id="vtc2" group-title="VTC" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/VTC_official_logo.svg" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.202:30120
-#EXTINF:0 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 FHD-UDP
+#EXTINF:0 tvg-id="vtc3hd" group-title="VTC" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/VTC_official_logo.svg" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.251:30120
-#EXTINF:0 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 FHD-UDP
+#EXTINF:0 tvg-id="vtc4hd" group-title="VTC" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/VTC_official_logo.svg" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.200:30120
-#EXTINF:0 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5 FHD-UDP
+#EXTINF:0 tvg-id="vtc5hd" group-title="VTC" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/VTC_official_logo.svg" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.199:30120
-#EXTINF:0 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6 FHD-UDP
+#EXTINF:0 tvg-id="vtc6hd" group-title="VTC" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/VTC_official_logo.svg" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.198:30120
-#EXTINF:0 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
+#EXTINF:0 tvg-id="vtc7hd" group-title="VTC" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/VTC_official_logo.svg" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.197:30120
-#EXTINF:0 tvg-id="vtc8" group-title="VTC" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
+#EXTINF:0 tvg-id="vtc8" group-title="VTC" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/VTC_official_logo.svg" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.196:30120
-#EXTINF:0 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 FHD-UDP
+#EXTINF:0 tvg-id="vtc9hd" group-title="VTC" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/VTC_official_logo.svg" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.195:30120
-#EXTINF:0 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 FHD-UDP
+#EXTINF:0 tvg-id="vtc10" group-title="VTC" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/VTC_official_logo.svg" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.194:30120
-#EXTINF:0 tvg-id="vtc11" group-title="VTC" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
+#EXTINF:0 tvg-id="vtc11" group-title="VTC" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/VTC_official_logo.svg" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.193:30120
-#EXTINF:0 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 FHD-UDP
+#EXTINF:0 tvg-id="vtc14hd" group-title="VTC" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/VTC_official_logo.svg" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.88:30120
-#EXTINF:0 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 FHD-UDP
+#EXTINF:0 tvg-id="vtc16" group-title="VTC" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/VTC_official_logo.svg" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.190:30120
-#EXTINF:0 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
+#EXTINF:0 tvg-id="vovtvhd" group-title="VTC" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/VTC_official_logo.svg" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.171:30120
 
 
 #-------------------HTV/HTVC-------------------#
-#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
+#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.180:30120
-#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel FHD-UDP
+#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.193:30120
-#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel FHD-UDP
+#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.13:30120
-#EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
+#EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.178:30120
-#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD FHD-UDP
+#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.192:30120
-#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD FHD-UDP
+#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.8:30120
-#EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD FHD-UDP
+#EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.190:30120
-#EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD FHD-UDP
+#EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.12:30120
-#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao FHD-UDP
+#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.165:30120
-#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc FHD-UDP
+#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.185:30120
-#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống FHD-UDP
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.166:30120
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình FHD-UDP
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.170:30120
-#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim FHD-UDP
+#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.184:30120
-#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ FHD-UDP
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.171:30120
-#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt FHD-UDP
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.186:30120
-#EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ FHD-UDP
+#EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.181:30120
-#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
+#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_of_Ho_Chi_Minh_Television.svg"  tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.177:30120
 
 
 #-------------------K+-------------------#
-#EXTINF:-1 group-title="K+" group-logo="https://i.imgur.com/x7lJj5a.png" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION 
+#EXTINF:-1 group-title="K+" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://vcis.nekocdn.xyz/kaction/index.m3u8
-#EXTINF:-1 group-title="K+" group-logo="https://i.imgur.com/x7lJj5a.png" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE 
+#EXTINF:-1 group-title="K+" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://vcis.nekocdn.xyz/kcine/index.m3u8
-#EXTINF:-1 group-title="🇻K+" group-logo="https://i.imgur.com/x7lJj5a.png" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS 
+#EXTINF:-1 group-title="🇻K+" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://vcis.nekocdn.xyz/kkids/index.m3u8
-#EXTINF:-1 group-title="K+" group-logo="https://i.imgur.com/x7lJj5a.png" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 
+#EXTINF:-1 group-title="K+" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://vcis.nekocdn.xyz/ksport1/index.m3u8
-#EXTINF:-1 group-title="K+" group-logo="https://i.imgur.com/x7lJj5a.png" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2
+#EXTINF:-1 group-title="K+" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://vcis.nekocdn.xyz/ksport2/index.m3u8
 
 
 
 #-------------------SCTV-------------------#
-#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 FHD-UDP
+#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SCTV_logo_%28Vietnam%29.svg" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.188:30120
-#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/nKAF1ZO.png",SCTV15 FHD-UDP
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SCTV_logo_%28Vietnam%29.svg" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/nKAF1ZO.png",SCTV15 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/01.m3u8
-#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/SICtYpd.png",SCTV17 FHD-UDP
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SCTV_logo_%28Vietnam%29.svg" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/SICtYpd.png",SCTV17 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/01.m3u8
 
 
 #-------------------Địa phương-------------------#
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long FHD-UDP
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="THVL/THĐT" group-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/THVL.png" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.7:30120
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long FHD-UDP
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="THVL/THĐT" group-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/THVL.png" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.19:30120
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long FHD-UDP
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="THVL/THĐT" group-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/THVL.png" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.16:30120
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long FHD-UDP
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="THVL/THĐT" group-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/THVL.png" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.20:30120
-#EXTINF:0 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp FHD-UDP
+#EXTINF:0 tvg-id="dongthap" group-title="THVL/THĐT" group-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/THVL.png" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.163:30120
-#EXTINF:0 tvg-id="" group-title="Địa phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây FHD-UDP
+#EXTINF:0 tvg-id="" group-title="THVL/THĐT" group-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/THVL.png" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.210:30120
-#EXTINF:0 tvg-id="laocai" group-title="Địa phương" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai FHD-UDP
+
+
+#EXTINF:0 tvg-id="laocai" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.119:30120
-#EXTINF:0 tvg-id="yenbai" group-title="Địa phương" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái FHD-UDP
+#EXTINF:0 tvg-id="yenbai" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.39:30120
-#EXTINF:0 tvg-id="dienbien" group-title="Địa phương" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên FHD-UDP
+#EXTINF:0 tvg-id="dienbien" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.74:30120
-#EXTINF:0 tvg-id="hoabinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Hòa Bình FHD-UDP
+#EXTINF:0 tvg-id="hoabinh" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Hòa Bình FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.168:30120
-#EXTINF:0 tvg-id="laichau" group-title="Địa phương" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH Lai Châu FHD-UDP
+#EXTINF:0 tvg-id="laichau" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH Lai Châu FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.36:30120
-#EXTINF:0 tvg-id="hagiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang FHD-UDP
+#EXTINF:0 tvg-id="hagiang" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.62:30120
-#EXTINF:0 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng FHD-UDP
+#EXTINF:0 tvg-id="caobang" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.102:30120
-#EXTINF:0 tvg-id="backan" group-title="Địa phương" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn FHD-UDP
+#EXTINF:0 tvg-id="backan" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.126:30120
-#EXTINF:0 tvg-id="langson" group-title="Địa phương" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Sơn FHD-UDP
+#EXTINF:0 tvg-id="langson" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Sơn FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.160:30120
-#EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH Tuyên Quang FHD-UDP
+#EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH Tuyên Quang FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.188:30120
-#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên FHD-UDP
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.179:30120
-#EXTINF:0 tvg-id="phutho" group-title="Địa phương" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ FHD-UDP
+#EXTINF:0 tvg-id="phutho" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.165:30120
-#EXTINF:0 tvg-id="bacgiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang FHD-UDP
+#EXTINF:0 tvg-id="bacgiang" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.164:30120
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh FHD-UDP
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.181:30120
-#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh FHD-UDP
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.180:30120
-#EXTINF:0 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh FHD-UDP
+#EXTINF:0 tvg-id="bacninh" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.40:30120
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội FHD-UDP
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.186:30120
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội FHD-UDP
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.125:30120
-#EXTINF:0 tvg-id="haiduong" group-title="Địa phương" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương FHD-UDP
+#EXTINF:0 tvg-id="haiduong" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.158:30120
-#EXTINF:0 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng FHD-UDP
+#EXTINF:0 tvg-id="haiphong" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.44:30120
-#EXTINF:0 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. Hải Phòng FHD-UDP
+#EXTINF:0 tvg-id="haiphongplus" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. Hải Phòng FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.113:30120
-#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình FHD-UDP
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.185:30120
-#EXTINF:0 tvg-id="thaibinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD _ TH Thái Bình FHD-UDP
+#EXTINF:0 tvg-id="thaibinh" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD _ TH Thái Bình FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.99:30120
-#EXTINF:0 tvg-id="vinhphuc" group-title="Địa phương" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vĩnh Phúc FHD-UDP
+#EXTINF:0 tvg-id="vinhphuc" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vĩnh Phúc FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.99:30120
-#EXTINF:0 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An FHD-UDP
+#EXTINF:0 tvg-id="nghean" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.183:30120
-#EXTINF:0 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tĩnh FHD-UDP
+#EXTINF:0 tvg-id="hatinh" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tĩnh FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.75:30120
-#EXTINF:0 tvg-id="quangtri" group-title="Địa phương" tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV HD _ TH Quảng Trị FHD-UDP
+#EXTINF:0 tvg-id="quangtri" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV HD _ TH Quảng Trị FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.117:30120
-#EXTINF:0 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. Đà Nẵng FHD-UDP
+#EXTINF:0 tvg-id="danang1" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. Đà Nẵng FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.147:30120
-#EXTINF:0 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 HD _ TH TP. Đà Nẵng FHD-UDP
+#EXTINF:0 tvg-id="danang2" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 HD _ TH TP. Đà Nẵng FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.146:30120
-#EXTINF:0 tvg-id="quangnam" group-title="Địa phương" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD _ TH Quảng Nam FHD-UDP
+#EXTINF:0 tvg-id="quangnam" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD _ TH Quảng Nam FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.50:30120
-#EXTINF:0 tvg-id="quangngai" group-title="Địa phương" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi FHD-UDP
+#EXTINF:0 tvg-id="quangngai" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.174:30120
-#EXTINF:0 tvg-id="binhdinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định FHD-UDP
+#EXTINF:0 tvg-id="binhdinh" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.145:30120
-#EXTINF:0 tvg-id="phuyen" group-title="Địa phương" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD _ TH Phú Yên FHD-UDP
+#EXTINF:0 tvg-id="phuyen" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD _ TH Phú Yên FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.58:30120
-#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Khánh Hòa FHD-UDP
+#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Khánh Hòa FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.133:30120
-#EXTINF:0 tvg-id="ninhthuan" group-title="Địa phương" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV HD _ TH Ninh Thuận FHD-UDP
+#EXTINF:0 tvg-id="ninhthuan" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV HD _ TH Ninh Thuận FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.178:30120
-#EXTINF:0 tvg-id="binhthuan" group-title="Địa phương" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV HD _ TH Bình Thuận FHD-UDP
+#EXTINF:0 tvg-id="binhthuan" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV HD _ TH Bình Thuận FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.124:30120
-#EXTINF:0 tvg-id="kontum" group-title="Địa phương" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum FHD-UDP
+#EXTINF:0 tvg-id="kontum" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.36:30120
-#EXTINF:0 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL HD _ TH Gia Lai FHD-UDP
+#EXTINF:0 tvg-id="gialai" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL HD _ TH Gia Lai FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.176:30120
-#EXTINF:0 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk FHD-UDP
+#EXTINF:0 tvg-id="daklak" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.64:30120
-#EXTINF:0 tvg-id="lamdong" group-title="Địa phương" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD _ TH Lâm Đồng FHD-UDP
+#EXTINF:0 tvg-id="lamdong" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD _ TH Lâm Đồng FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.177:30120
-#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa phương" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 HD _ TH Bình Phước FHD-UDP
+#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 HD _ TH Bình Phước FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.23:30120
-#EXTINF:0 tvg-id="binhphuoc2" group-title="Địa phương" tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 HD _ TH Bình Phước FHD-UDP
+#EXTINF:0 tvg-id="binhphuoc2" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 HD _ TH Bình Phước FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.38:30120
-#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương FHD-UDP
+#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.150:30120
-#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH Bình Dương FHD-UDP
+#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH Bình Dương FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.149:30120
-#EXTINF:0 tvg-id="binhduong3" group-title="Địa phương" tvg-logo="https://i.imgur.com/K6Qs6BO.png",BTV3 HD _ TH Bình Dương FHD-UDP
+#EXTINF:0 tvg-id="binhduong3" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/K6Qs6BO.png",BTV3 HD _ TH Bình Dương FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.22:30120
-#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel FHD-UDP
+#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.189:30120
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai FHD-UDP
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.152:30120
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD _ TH Đồng Nai FHD-UDP
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD _ TH Đồng Nai FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.151:30120
-#EXTINF:0 tvg-id="tayninh" group-title="Địa phương" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh FHD-UDP
+#EXTINF:0 tvg-id="tayninh" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.130:30120
-#EXTINF:0 tvg-id="vungtau" group-title="Địa phương" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu FHD-UDP
+#EXTINF:0 tvg-id="vungtau" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.175:30120
-#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang FHD-UDP
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.170:30120
-#EXTINF:0 tvg-id="angiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang FHD-UDP
+#EXTINF:0 tvg-id="angiang" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.173:30120
-#EXTINF:0 tvg-id="bentre" group-title="Địa phương" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre FHD-UDP
+#EXTINF:0 tvg-id="bentre" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.156:30120
-#EXTINF:0 tvg-id="travinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh FHD-UDP
+#EXTINF:0 tvg-id="travinh" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.172:30120
-#EXTINF:0 tvg-id="haugiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang FHD-UDP
+#EXTINF:0 tvg-id="haugiang" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.157:30120
-#EXTINF:0 tvg-id="kiengiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang FHD-UDP
+#EXTINF:0 tvg-id="kiengiang" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang FHD-UDP
 http://10.0.0.1:4001/udp/225.1.2.182:30120
-#EXTINF:0 tvg-id="baclieu" group-title="Địa phương" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD _ TH Bạc Liêu FHD-UDP
+#EXTINF:0 tvg-id="baclieu" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD _ TH Bạc Liêu FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.61:30120
-#EXTINF:0 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH Cà Mau FHD-UDP
+#EXTINF:0 tvg-id="camau" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH Cà Mau FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.104:30120
-#EXTINF:0 tvg-id="cantho" group-title="Địa phương" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ FHD-UDP
+#EXTINF:0 tvg-id="cantho" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ FHD-UDP
 http://10.0.0.1:4001/udp/225.1.1.132:30120
-#EXTINF:0 tvg-id="sonla" group-title="Địa phương" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
+#EXTINF:0 tvg-id="sonla" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
 http://10.0.0.1:4001/udp/225.1.1.98:30120
-#EXTINF:0 tvg-id="hanam" group-title="Địa phương" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH Hà Nam
+#EXTINF:0 tvg-id="hanam" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH Hà Nam
 http://10.0.0.1:4001/udp/225.1.1.63:30120
-#EXTINF:0 tvg-id="hungyen" group-title="Địa phương" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Hưng Yên
+#EXTINF:0 tvg-id="hungyen" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Hưng Yên
 http://10.0.0.1:4001/udp/225.1.1.118:30120
-#EXTINF:0 tvg-id="namdinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Nam Định
+#EXTINF:0 tvg-id="namdinh" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Nam Định
 http://10.0.0.1:4001/udp/225.1.1.120:30120
-#EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
+#EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
 http://10.0.0.1:4001/udp/225.1.2.184:30120
-#EXTINF:0 tvg-id="quangbinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Quảng Bình
+#EXTINF:0 tvg-id="quangbinh" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Quảng Bình
 http://10.0.0.1:4001/udp/225.1.2.164:30120
-#EXTINF:0 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT _ TH Thừa Thiên Huế
+#EXTINF:0 tvg-id="hue" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT _ TH Thừa Thiên Huế
 http://10.0.0.1:4001/udp/225.1.1.161:30120
-#EXTINF:0 tvg-id="binhduong6" group-title="Địa phương" tvg-logo="https://i.imgur.com/55pfYfq.png",BTV6 _ TH Bình Dương
+#EXTINF:0 tvg-id="binhduong6" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/55pfYfq.png",BTV6 _ TH Bình Dương
 http://10.0.0.1:4001/udp/225.1.1.223:30120
-#EXTINF:0 tvg-id="longan" group-title="Địa phương" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
+#EXTINF:0 tvg-id="longan" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
 http://10.0.0.1:4001/udp/225.1.1.162:30120
-#EXTINF:0 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH Sóc Trăng
+#EXTINF:0 tvg-id="soctrang" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH Sóc Trăng
 http://10.0.0.1:4001/udp/225.1.1.159:30120
-#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên FHD-UDP
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.62:30120
-#EXTINF:0 tvg-id="phutho" group-title="Địa phương" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ FHD-UDP
+#EXTINF:0 tvg-id="phutho" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.71:30120
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh FHD-UDP
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.32:30120
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội FHD-UDP
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.22:30120
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội FHD-UDP
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.49:30120
-#EXTINF:0 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng FHD-UDP
+#EXTINF:0 tvg-id="haiphong" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.80:30120
-#EXTINF:0 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. Hải Phòng FHD-UDP
+#EXTINF:0 tvg-id="haiphongplus" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. Hải Phòng FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.52:30120
-#EXTINF:0 tvg-id="vinhphuc" group-title="Địa phương" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vĩnh Phúc FHD-UDP
+#EXTINF:0 tvg-id="vinhphuc" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vĩnh Phúc FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.43:30120
-#EXTINF:0 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. Đà Nẵng FHD-UDP
+#EXTINF:0 tvg-id="danang1" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. Đà Nẵng FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.99:30120
-#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Khánh Hòa FHD-UDP
+#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Khánh Hòa FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.74:30120
-#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương FHD-UDP
+#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.64:30120
-#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH Bình Dương FHD-UDP
+#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH Bình Dương FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.82:30120
-#EXTINF:0 tvg-id="binhduong3" group-title="Địa phương" tvg-logo="https://i.imgur.com/K6Qs6BO.png",BTV3 HD _ TH Bình Dương FHD-UDP
+#EXTINF:0 tvg-id="binhduong3" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/K6Qs6BO.png",BTV3 HD _ TH Bình Dương FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.96:30120
-#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel FHD-UDP
+#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.58:30120
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai FHD-UDP
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.60:30120
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD _ TH Đồng Nai FHD-UDP
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD _ TH Đồng Nai FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.65:30120
-#EXTINF:0 tvg-id="tayninh" group-title="Địa phương" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh FHD-UDP
+#EXTINF:0 tvg-id="tayninh" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.56:30120
-#EXTINF:0 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp FHD-UDP
+#EXTINF:0 tvg-id="dongthap" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.24:30120
-#EXTINF:0 tvg-id="" group-title="Địa phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây FHD-UDP
+#EXTINF:0 tvg-id="" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.77:30120
-#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang FHD-UDP
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.46:30120
-#EXTINF:0 tvg-id="travinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh FHD-UDP
+#EXTINF:0 tvg-id="travinh" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.44:30120
-#EXTINF:0 tvg-id="kiengiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang FHD-UDP
+#EXTINF:0 tvg-id="kiengiang" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.67:30120
-#EXTINF:0 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH Cà Mau FHD-UDP
+#EXTINF:0 tvg-id="camau" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH Cà Mau FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.100:30120
-#EXTINF:0 tvg-id="cantho" group-title="Địa phương" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ FHD-UDP
+#EXTINF:0 tvg-id="cantho" group-title="Địa phương" group-logo="https://fpt.info.vn/wp-content/uploads/2021/10/goi-kenh-dia-phuong.jpg" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ FHD-UDP
 http://10.0.0.1:4001/udp/225.1.3.69:30120
 
 
@@ -565,434 +567,437 @@ http://10.0.0.1:4001/udp/225.1.1.200:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.139:30120
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
+#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.201:30120
 
 
-#EXTINF:-1 tvg-id="spotv1" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV ASIA
+
+
+
+#EXTINF:-1 tvg-id="spotv1" group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://202.150.161.68/spotv1/index.m3u8
-#EXTINF:-1 tvg-id="spotv2" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 ASIA
+#EXTINF:-1 tvg-id="spotv2" group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://202.150.161.68/spotv2/index.m3u8
-#EXTINF:-1 tvg-id="bein-sports-1-en" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/Vtk2cGI.png",BeIN Sports 1 Thailand (English)
+#EXTINF:-1 tvg-id="bein-sports-1-en" group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/Vtk2cGI.png",BeIN Sports 1 Thailand (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-id="bein-sports-2-en" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/vUJZSvs.png",BeIN Sports 2 Thailand (English)
+#EXTINF:-1 tvg-id="bein-sports-2-en" group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/vUJZSvs.png",BeIN Sports 2 Thailand (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/JGXzw5v.png",True Sports 1
+#EXTINF:-1 group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/JGXzw5v.png",True Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://edge1.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/l11xhF2.png",True Sports 2
+#EXTINF:-1 group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/l11xhF2.png",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://edge1.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/rsAqjtw.png",True Sports 3
+#EXTINF:-1 group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/rsAqjtw.png",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://edge2.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/bW79Nal.png",True Sports 7
+#EXTINF:-1 group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/bW79Nal.png",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://edge1.laotv.la/live/THD7/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/goTVVel.png",True Premier Football 1
+#EXTINF:-1 group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/goTVVel.png",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://edge2.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/EodqrAZ.png",True Premier Football 2
+#EXTINF:-1 group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/EodqrAZ.png",True Premier Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://edge2.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png",WWE
+#EXTINF:-1 group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",WWE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ctrl.laotv.la/live/WWE/index.m3u8
 
 
 #-------------------FPT Service-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.2:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.4.199:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.4.200:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Pladio
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Pladio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.244:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.10:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.12:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.15:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.27:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.28:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.30:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.31:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.32:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.33:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.34:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.35:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.37:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.68:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.69:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.70:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.71:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.72:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.92:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.93:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.94:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.95:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.96:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.97:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+#EXTINF:0 tvg-id="" group-title="FPT Service" group-logo="https://vi.wikipedia.org/wiki/FPT_Play#/media/T%E1%BA%ADp_tin:LOGO-18.png" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.101:30120
 
 
 #-------------------FPT Play-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.1:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.2:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.3:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.4:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
 http://10.0.0.1:4001/udp/225.1.4.5:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.6:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.108:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.201:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.7:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.8:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.184:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.179:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.42:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.43:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6 HD FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6 HD FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.45:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 HD FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 HD FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.48:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 HD FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 HD FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.49:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 HD FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 HD FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.53:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.54:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.56:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.59:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.11:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.60:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.67:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.223:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.64:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.63:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.66:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.62:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.91:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.211:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.221:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.98:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.148:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.170:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.219:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV HD _ TH Bắc Giang
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV HD _ TH Bắc Giang
 http://10.0.0.1:4001/udp/225.1.4.173:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.203:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 HD _ TH Đồng Tháp FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 HD _ TH Đồng Tháp FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.125:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.177:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.202:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.87:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.176:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.217:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.164:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.133:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.19:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.209:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax HD FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax HD FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.168:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.36:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.9:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.29:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.21:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.23:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.22:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/rxFZgIK.png",BLOOMBERG FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/rxFZgIK.png",BLOOMBERG FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.18:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.13:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.16:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.76:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.17:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.208:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.25:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.24:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.39:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.75:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/ALDt1JX.png",FASHION TV FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/ALDt1JX.png",FASHION TV FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.20:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/YF2zMTz.png",FRANCE 24 FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/YF2zMTz.png",FRANCE 24 FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.212:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.90:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.183:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.214:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.73:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.210:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.26:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 MONDE ASIE FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 MONDE ASIE FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.213:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV HD FHD-UDP
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV HD FHD-UDP
 http://10.0.0.1:4001/udp/225.1.4.14:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VTC2
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",VTC2
 http://10.0.0.1:4001/udp/225.1.4.41:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VTC5
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",VTC5
 http://10.0.0.1:4001/udp/225.1.4.44:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VTC7
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",VTC7
 http://10.0.0.1:4001/udp/225.1.4.46:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VTC8
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",VTC8
 http://10.0.0.1:4001/udp/225.1.4.47:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VTC11
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",VTC11
 http://10.0.0.1:4001/udp/225.1.4.50:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",HTV1
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",HTV1
 http://10.0.0.1:4001/udp/225.1.4.55:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",HTV3
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",HTV3
 http://10.0.0.1:4001/udp/225.1.4.57:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",HTV Keys
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",HTV Keys
 http://10.0.0.1:4001/udp/225.1.4.58:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",YouTV
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",YouTV
 http://10.0.0.1:4001/udp/225.1.4.222:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",QTV3 HD _ TH Quảng Ninh
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",QTV3 HD _ TH Quảng Ninh
 http://10.0.0.1:4001/udp/225.1.4.86:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BPTV2 HD _ TH Bình Phước
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",BPTV2 HD _ TH Bình Phước
 http://10.0.0.1:4001/udp/225.1.4.80:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BTV2 HD _ TH Bình Dương
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",BTV2 HD _ TH Bình Dương
 http://10.0.0.1:4001/udp/225.1.4.81:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BTV6 _ TH Bình Dương
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",BTV6 _ TH Bình Dương
 http://10.0.0.1:4001/udp/225.1.4.78:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",ĐNRTV2 HD _ TH Đồng Nai
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",ĐNRTV2 HD _ TH Đồng Nai
 http://10.0.0.1:4001/udp/225.1.4.85:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Arirang
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Arirang
 http://10.0.0.1:4001/udp/225.1.4.74:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VOV TV
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",VOV TV
 http://10.0.0.1:4001/udp/225.1.4.220:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BTV9 An Viên HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",BTV9 An Viên HD
 http://10.0.0.1:4001/udp/225.1.4.99:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bạc Liêu HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Bạc Liêu HD
 http://10.0.0.1:4001/udp/225.1.4.109:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bắc Ninh HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Bắc Ninh HD
 http://10.0.0.1:4001/udp/225.1.4.110:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bến Tre HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Bến Tre HD
 http://10.0.0.1:4001/udp/225.1.4.111:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bình Định HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Bình Định HD
 http://10.0.0.1:4001/udp/225.1.4.112:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bình Phước 1 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Bình Phước 1 HD
 http://10.0.0.1:4001/udp/225.1.4.113:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bình Thuận HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Bình Thuận HD
 http://10.0.0.1:4001/udp/225.1.4.114:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bình Dương 1 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Bình Dương 1 HD
 http://10.0.0.1:4001/udp/225.1.4.115:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bình Dương 3 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Bình Dương 3 HD
 http://10.0.0.1:4001/udp/225.1.4.116:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Cà Mau HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Cà Mau HD
 http://10.0.0.1:4001/udp/225.1.4.117:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Cần Thơ HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Cần Thơ HD
 http://10.0.0.1:4001/udp/225.1.4.118:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Cao Bằng HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Cao Bằng HD
 http://10.0.0.1:4001/udp/225.1.4.119:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Đà Nẵng 1 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Đà Nẵng 1 HD
 http://10.0.0.1:4001/udp/225.1.4.120:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Đà Nẵng 2 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Đà Nẵng 2 HD
 http://10.0.0.1:4001/udp/225.1.4.121:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Đắk Lắk HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Đắk Lắk HD
 http://10.0.0.1:4001/udp/225.1.4.122:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Điện Biên HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Điện Biên HD
 http://10.0.0.1:4001/udp/225.1.4.123:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Đồng Nai 1 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Đồng Nai 1 HD
 http://10.0.0.1:4001/udp/225.1.4.124:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Gia Lai HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Gia Lai HD
 http://10.0.0.1:4001/udp/225.1.4.126:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hà Giang HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Hà Giang HD
 http://10.0.0.1:4001/udp/225.1.4.127:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hà Nam
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Hà Nam
 http://10.0.0.1:4001/udp/225.1.4.128:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hà Tĩnh HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Hà Tĩnh HD
 http://10.0.0.1:4001/udp/225.1.4.129:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hải Dương HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Hải Dương HD
 http://10.0.0.1:4001/udp/225.1.4.130:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hải Phòng HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Hải Phòng HD
 http://10.0.0.1:4001/udp/225.1.4.131:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hà Nội 2 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Hà Nội 2 HD
 http://10.0.0.1:4001/udp/225.1.4.132:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hòa Bình HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Hòa Bình HD
 http://10.0.0.1:4001/udp/225.1.4.134:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Thừa Thiên Huế
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Thừa Thiên Huế
 http://10.0.0.1:4001/udp/225.1.4.135:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hưng Yên
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Hưng Yên
 http://10.0.0.1:4001/udp/225.1.4.136:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Khánh Hòa HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Khánh Hòa HD
 http://10.0.0.1:4001/udp/225.1.4.137:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Kiên Giang HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Kiên Giang HD
 http://10.0.0.1:4001/udp/225.1.4.138:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Kon Tum HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Kon Tum HD
 http://10.0.0.1:4001/udp/225.1.4.139:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Lai Châu HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Lai Châu HD
 http://10.0.0.1:4001/udp/225.1.4.140:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Lâm Đồng HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Lâm Đồng HD
 http://10.0.0.1:4001/udp/225.1.4.141:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Lạng Sơn HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Lạng Sơn HD
 http://10.0.0.1:4001/udp/225.1.4.142:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Lào Cai HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Lào Cai HD
 http://10.0.0.1:4001/udp/225.1.4.143:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Long An
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Long An
 http://10.0.0.1:4001/udp/225.1.4.144:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Nam Định
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Nam Định
 http://10.0.0.1:4001/udp/225.1.4.145:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Nghệ An HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Nghệ An HD
 http://10.0.0.1:4001/udp/225.1.4.146:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Ninh Bình HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Ninh Bình HD
 http://10.0.0.1:4001/udp/225.1.4.147:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Ninh Thuận HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Ninh Thuận HD
 http://10.0.0.1:4001/udp/225.1.4.149:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Phú Thọ HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Phú Thọ HD
 http://10.0.0.1:4001/udp/225.1.4.150:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Phú Yên HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Phú Yên HD
 http://10.0.0.1:4001/udp/225.1.4.151:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Quảng Bình
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Quảng Bình
 http://10.0.0.1:4001/udp/225.1.4.152:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Quảng Nam HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Quảng Nam HD
 http://10.0.0.1:4001/udp/225.1.4.153:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Quảng Ngãi HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Quảng Ngãi HD
 http://10.0.0.1:4001/udp/225.1.4.154:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",QTV1 HD _ TH Quảng Ninh
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",QTV1 HD _ TH Quảng Ninh
 http://10.0.0.1:4001/udp/225.1.4.155:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Quảng Trị HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Quảng Trị HD
 http://10.0.0.1:4001/udp/225.1.4.156:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Sóc Trăng 1
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Sóc Trăng 1
 http://10.0.0.1:4001/udp/225.1.4.157:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Sơn La
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Sơn La
 http://10.0.0.1:4001/udp/225.1.4.158:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Tây Ninh 11 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Tây Ninh 11 HD
 http://10.0.0.1:4001/udp/225.1.4.159:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Thái Bình HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Thái Bình HD
 http://10.0.0.1:4001/udp/225.1.4.160:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Thái Nguyên 1 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Thái Nguyên 1 HD
 http://10.0.0.1:4001/udp/225.1.4.161:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Thanh Hóa
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Thanh Hóa
 http://10.0.0.1:4001/udp/225.1.4.162:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Tiền Giang HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Tiền Giang HD
 http://10.0.0.1:4001/udp/225.1.4.163:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Tuyên Quang HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Tuyên Quang HD
 http://10.0.0.1:4001/udp/225.1.4.165:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Vĩnh Phúc HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Vĩnh Phúc HD
 http://10.0.0.1:4001/udp/225.1.4.166:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Yên Bái HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Yên Bái HD
 http://10.0.0.1:4001/udp/225.1.4.167:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",An Giang HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",An Giang HD
 http://10.0.0.1:4001/udp/225.1.4.171:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Vũng Tàu HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Vũng Tàu HD
 http://10.0.0.1:4001/udp/225.1.4.172:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bắc Kạn HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Bắc Kạn HD
 http://10.0.0.1:4001/udp/225.1.4.174:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hải Phòng + HD
+#EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Hải Phòng + HD
 http://10.0.0.1:4001/udp/225.1.4.178:30120
 
