@@ -230,7 +230,7 @@ http://10.0.0.1:4001/udp/225.1.1.177:30120
 
 
 #-------------------K+-------------------#
-#EXTINF:0 tvg-id="kaction" group-title="K+" group-logo=" " tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION 
+#EXTINF:0 tvg-id="kaction" group-title="K+" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://vcis.nekocdn.xyz/kaction/index.m3u8
 #EXTINF:0 tvg-id="kcine" group-title="K+" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE 
