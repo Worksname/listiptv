@@ -1,176 +1,176 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #-------------------VTV-------------------#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 http://str1.cvtv.xyz/VTV1HD?token=live
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
 http://str1.cvtv.xyz/vtv2?token=live
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 http://str1.cvtv.xyz/VTV3HD?token=live
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
 https://lms-vnetwork-vtv.swiftfederation.com/vtv/vtv4-1080p.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 http://str1.cvtv.xyz/vtv5?token=live
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
 https://lms-vnetwork-vtv.swiftfederation.com/vtv/vtv5tnb-1080p.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên 
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên 
 https://lms-vnetwork-vtv.swiftfederation.com/vtv/vtv5tn-1080p.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 https://lms-vnetwork-vtv.swiftfederation.com/vtv/vtv7-1080p.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
 https://lms-vnetwork-vtv.swiftfederation.com/vtv/vtv8-1080p.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://lms-vnetwork-vtv.swiftfederation.com/vtv/vtv9-1080p.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/qv5erJg.png",VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/qv5erJg.png",VTV Cần Thơ
 https://lms-vnetwork-vtv.swiftfederation.com/vtv/vtv6-1080p.m3u8
 
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 FHD-UDP
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.1:30120
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 FHD-UDP
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.5:30120
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 FHD-UDP
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.2:30120
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 FHD-UDP
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.6:30120
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 FHD-UDP
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.4:30120
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ FHD-UDP
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.3:30120
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 FHD-UDP
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.15:30120
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 FHD-UDP
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.11:30120
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 FHD-UDP
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.9:30120
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ FHD-UDP
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.42:30120
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên FHD-UDP
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/w6FqKzp/vtv.png" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.3.30:30120
 
 
 
 #-------------------VTVcab-------------------#
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/180/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/175/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://api.wintv.me/vtvcab3/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/181/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/184/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://api.wintv.me/vtvcab6/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://api.wintv.me/vtvcab7/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/178/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/189/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/176/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/184/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/ms11bjD.png",VTV Hyundai Homeshopping
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/ms11bjD.png",VTV Hyundai Homeshopping
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/27/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/185/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://api.wintv.me/vtvcab16/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/186/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://api.wintv.me/vtvcab18/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/177/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/187/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/3XEFbua.png",ON Kids
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/3XEFbua.png",ON Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/179/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/188/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/169/index.m3u8
-#EXTINF:-1 group-title="VTVcab" group-title="VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/Sqo9Luk.png",BTV5 — ON Sports Action
+#EXTINF:-1 group-title="VTV/VTVcab" group-title="VTV/VTVcab" group-logo="https://i.ibb.co/Cwk2Y31/vtvcab.png" tvg-logo="https://i.imgur.com/Sqo9Luk.png",BTV5 — ON Sports Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://wintv.fun/360/2380/index.m3u8
 
 
 
 #-------------------VTC-------------------#
-#EXTINF:0 tvg-id="vtc1hd" group-title="VTC" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 FHD-UDP
+#EXTINF:0 tvg-id="vtc1hd" group-title="VTC/SCTV" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.254:30120
-#EXTINF:0 tvg-id="vtc2" group-title="VTC" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
+#EXTINF:0 tvg-id="vtc2" group-title="VTC/SCTV" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.202:30120
-#EXTINF:0 tvg-id="vtc3hd" group-title="VTC" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 FHD-UDP
+#EXTINF:0 tvg-id="vtc3hd" group-title="VTC/SCTV" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.251:30120
-#EXTINF:0 tvg-id="vtc4hd" group-title="VTC" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 FHD-UDP
+#EXTINF:0 tvg-id="vtc4hd" group-title="VTC/SCTV" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.200:30120
-#EXTINF:0 tvg-id="vtc5hd" group-title="VTC" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5 FHD-UDP
+#EXTINF:0 tvg-id="vtc5hd" group-title="VTC/SCTV" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.199:30120
-#EXTINF:0 tvg-id="vtc6hd" group-title="VTC" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6 FHD-UDP
+#EXTINF:0 tvg-id="vtc6hd" group-title="VTC/SCTV" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.198:30120
-#EXTINF:0 tvg-id="vtc7hd" group-title="VTC" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
+#EXTINF:0 tvg-id="vtc7hd" group-title="VTC/SCTV" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.197:30120
-#EXTINF:0 tvg-id="vtc8" group-title="VTC" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
+#EXTINF:0 tvg-id="vtc8" group-title="VTC/SCTV" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.196:30120
-#EXTINF:0 tvg-id="vtc9hd" group-title="VTC" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 FHD-UDP
+#EXTINF:0 tvg-id="vtc9hd" group-title="VTC/SCTV" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.195:30120
-#EXTINF:0 tvg-id="vtc10" group-title="VTC" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 FHD-UDP
+#EXTINF:0 tvg-id="vtc10" group-title="VTC/SCTV" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.194:30120
-#EXTINF:0 tvg-id="vtc11" group-title="VTC" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
+#EXTINF:0 tvg-id="vtc11" group-title="VTC/SCTV" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.193:30120
-#EXTINF:0 tvg-id="vtc14hd" group-title="VTC" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 FHD-UDP
+#EXTINF:0 tvg-id="vtc14hd" group-title="VTC/SCTV" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.88:30120
-#EXTINF:0 tvg-id="vtc16" group-title="VTC" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 FHD-UDP
+#EXTINF:0 tvg-id="vtc16" group-title="VTC/SCTV" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.190:30120
-#EXTINF:0 tvg-id="vovtvhd" group-title="VTC" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
+#EXTINF:0 tvg-id="vovtvhd" group-title="VTC/SCTV" group-logo="https://i.ibb.co/tD8y6Ph/vtc.png" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.2.171:30120
 
@@ -230,32 +230,32 @@ http://10.0.0.1:4001/udp/225.1.1.177:30120
 
 
 #-------------------K+-------------------#
-#EXTINF:0 tvg-id="kaction" group-title="K+" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION 
+#EXTINF:0 tvg-id="kaction" group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://vcis.nekocdn.xyz/kaction/index.m3u8
-#EXTINF:0 tvg-id="kcine" group-title="K+" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE 
+#EXTINF:0 tvg-id="kcine" group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://vcis.nekocdn.xyz/kcine/index.m3u8
-#EXTINF:0 tvg-id="kkids" group-title="K+" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS 
+#EXTINF:0 tvg-id="kkids" group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://vcis.nekocdn.xyz/kkids/index.m3u8
-#EXTINF:0 tvg-id="ksport1" group-title="K+" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 
+#EXTINF:0 tvg-id="ksport1" group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://vcis.nekocdn.xyz/ksport1/index.m3u8
-#EXTINF:0 tvg-id="ksport2" group-title="K+" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2
+#EXTINF:0 tvg-id="ksport2" group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2016.svg/1200px-Logo_K%2B_from_2016.svg.png" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://vcis.nekocdn.xyz/ksport2/index.m3u8
 
 
 
 #-------------------SCTV-------------------#
-#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" group-logo="https://i.ibb.co/R4N5xgb/sctv.png" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 FHD-UDP
+#EXTINF:0 tvg-id="sctv6hd" group-title="VTC/SCTV" group-logo="https://i.ibb.co/R4N5xgb/sctv.png" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://10.0.0.1:4001/udp/225.1.1.188:30120
-#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" group-logo="https://i.ibb.co/R4N5xgb/sctv.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/nKAF1ZO.png",SCTV15 FHD-UDP
+#EXTINF:-1 tvg-id="sctv15hd" group-title="VTC/SCTV" group-logo="https://i.ibb.co/R4N5xgb/sctv.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/nKAF1ZO.png",SCTV15 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/01.m3u8
-#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" group-logo="https://i.ibb.co/R4N5xgb/sctv.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/SICtYpd.png",SCTV17 FHD-UDP
+#EXTINF:-1 tvg-id="sctv17hd" group-title="VTC/SCTV" group-logo="https://i.ibb.co/R4N5xgb/sctv.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/SICtYpd.png",SCTV17 FHD-UDP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/01.m3u8
 
@@ -565,37 +565,37 @@ http://10.0.0.1:4001/udp/225.1.1.201:30120
 
 
 
-#EXTINF:-1 tvg-id="spotv1" group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV ASIA
+#EXTINF:-1 tvg-id="spotv1" group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://202.150.161.68/spotv1/index.m3u8
-#EXTINF:-1 tvg-id="spotv2" group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 ASIA
+#EXTINF:-1 tvg-id="spotv2" group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://202.150.161.68/spotv2/index.m3u8
-#EXTINF:-1 tvg-id="bein-sports-1-en" group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/Vtk2cGI.png",BeIN Sports 1 Thailand (English)
+#EXTINF:-1 tvg-id="bein-sports-1-en" group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/Vtk2cGI.png",BeIN Sports 1 Thailand (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-id="bein-sports-2-en" group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/vUJZSvs.png",BeIN Sports 2 Thailand (English)
+#EXTINF:-1 tvg-id="bein-sports-2-en" group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/vUJZSvs.png",BeIN Sports 2 Thailand (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/JGXzw5v.png",True Sports 1
+#EXTINF:-1 group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/JGXzw5v.png",True Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://edge1.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/l11xhF2.png",True Sports 2
+#EXTINF:-1 group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/l11xhF2.png",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://edge1.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/rsAqjtw.png",True Sports 3
+#EXTINF:-1 group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/rsAqjtw.png",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://edge2.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:-1 group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/bW79Nal.png",True Sports 7
+#EXTINF:-1 group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/bW79Nal.png",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://edge1.laotv.la/live/THD7/index.m3u8
-#EXTINF:-1 group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/goTVVel.png",True Premier Football 1
+#EXTINF:-1 group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/goTVVel.png",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://edge2.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/EodqrAZ.png",True Premier Football 2
+#EXTINF:-1 group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png"  tvg-logo="https://i.imgur.com/EodqrAZ.png",True Premier Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://edge2.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="Thể Thao" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",WWE
+#EXTINF:-1 group-title="K+/SPORT" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/The_thao_tin_tuc_HD.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",WWE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ctrl.laotv.la/live/WWE/index.m3u8
 
@@ -990,4 +990,3 @@ http://10.0.0.1:4001/udp/225.1.4.172:30120
 http://10.0.0.1:4001/udp/225.1.4.174:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" group-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TH_FPT_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20230221100413&path-prefix=vi",Hải Phòng + HD
 http://10.0.0.1:4001/udp/225.1.4.178:30120
-
